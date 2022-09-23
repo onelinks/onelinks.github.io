@@ -1,6 +1,6 @@
 # 关于 Gitbook
 
-#GitBook 是一个供开发人员构建文档的开源工具。[GitBook网站](https://www.gitbook.com/)是一个创建和托管书籍的在线平台（需要翻墙）。
+GitBook 是一个供开发人员构建文档的开源工具。[GitBook网站](https://www.gitbook.com/)是一个创建和托管书籍的在线平台（需要翻墙）。
 本文主要讲解如何使用gitbook提供的工具，在本地开发一个书籍文档，并部署到自己的网站上。
 
 ## 一、简介
